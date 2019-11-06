@@ -1,2 +1,4 @@
-# TypeScriptAlura
-Cursos: TypeScript parte 1 e 2
+# Alura TypeScript
+
+- [TypeScript parte 1: Evoluindo seu Javascript](https://cursos.alura.com.br/course/typescript-parte1)
+- [TypeScript parte 2: Mais técnicas e boas práticas](https://cursos.alura.com.br/course/typescript-parte2)
